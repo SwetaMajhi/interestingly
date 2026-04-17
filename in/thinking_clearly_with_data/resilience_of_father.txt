@@ -1,0 +1,29 @@
+Abe's Hasty Diagnosis
+
+Abe = 1 year old kid, got diagnosed with celiac disease (non life threatening just FYI)
+had two celiac-related blood tests = 
+1. One came back positive (indicating that he had the disease) --> acc to doctors, was over 80 percent accurate.
+2. the other negative (indicating that he did not have the disease)
+
+# Note to self: Kudos to Ethan, the father, who he pushed hard for the information. 
+#TheDrama: "...Ethan asked for a look at the report on Abe's bloodwork. The doctors indicated they didn't think that would be useful since Ethan isn't a doctor. This response was neither surprising nor hard to understand. People, especially experts and authority figures, often don t like acknowledging the limits oftheir knowledge....". Remember even experts can be wrong.
+
+Two numbers characterize the effectiveness ofany diagnostic test:
+1. false negative rate = how frequently the test says a sick person is healthy. (you were sick, but test mistakenly said you were fine)
+2. false positive rate = how frequently the test says a healthy person is sick. (you were fine, but test mistakenly said you were sick)
+# Note to self: You need to know both the false positive rate and the false negative rate to interpret a diagnostic tests results.
+
+Research by Ethan:
+The test on which Abe came up positive for celiac disease:
+	- has a false negative rate of about 20 percent --> 20% rate of saying no issue, wrongly. 
+		- 100% - false negative rate = true positive rate.
+		- for estimation taking 100 people, with disease. Why with disease? because false neg means canditate had disease but wrongly said no disease. if 100 people with celiac disease took the test, about 80 of them would correctly test positive and the other 20 would incorrectly test negative.
+	- has a false positive rate of 50 percent --> 
+		- If 100 HEALTHY people took the test, 50 would wrongly test positive (false positives), 50 would correctly test negative (true negatives).
+In contrast, the test on which Abe came up negative for celiac disease:
+	- had much lower false negative and false positive rates. = good
+		- false news rate is low means true news rate is high = high true positive and true negative 
+		- low false neg --> if result = neg, more confidence on result because low chances of being false.
+		- low false pos --> if result = pos, take it seriously. If 100 healthy people took this test, very few would wrongly test positive.
+
+#TheDrama: "...Ethan called the doctors to explain what he'd learned....Their response: "A diagnosis like this can be hard to hear." Ethan found a new pediatrician......Abe did not have celiac disease".
