@@ -5,7 +5,7 @@ had two celiac-related blood tests =
 1. One came back positive (indicating that he had the disease) --> acc to doctors, was over 80 percent accurate.
 2. the other negative (indicating that he did not have the disease)
 
-# Note to self: Kudos to Ethan, the father, who he pushed hard for the information. 
+# Note to self: Kudos to Ethan, the father, who he pushed hard for the information instead of accepting circumstances. So should you! 
 #TheDrama: "...Ethan asked for a look at the report on Abe's bloodwork. The doctors indicated they didn't think that would be useful since Ethan isn't a doctor. This response was neither surprising nor hard to understand. People, especially experts and authority figures, often don t like acknowledging the limits oftheir knowledge....". Remember even experts can be wrong.
 
 Two numbers characterize the effectiveness ofany diagnostic test:
@@ -27,3 +27,4 @@ In contrast, the test on which Abe came up negative for celiac disease:
 		- low false pos --> if result = pos, take it seriously. If 100 healthy people took this test, very few would wrongly test positive.
 
 #TheDrama: "...Ethan called the doctors to explain what he'd learned....Their response: "A diagnosis like this can be hard to hear." Ethan found a new pediatrician......Abe did not have celiac disease".
+# Note to self: Experts are humans. Humans can be wrong. DO NOT hesitate while questioning.
